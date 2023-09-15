@@ -45,3 +45,5 @@ require (
 	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/tools v0.6.0 // indirect
 )
+
+replace github.com/Dreamacro/clash => github.com/pingtouge2008/clash v0.0.0-20230911035213-d034a408be42
